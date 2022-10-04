@@ -1637,7 +1637,7 @@ PODS:
     - AppAuth/Core (~> 1.6)
     - GTMSessionFetcher/Core (< 3.0, >= 1.5)
   - GTMSessionFetcher/Core (1.7.2)
-  - hermes-engine (0.70.1)
+  - hermes-engine (0.70.2)
   - JKBigInteger (0.0.6)
   - libevent (2.1.12)
   - lottie-ios (3.2.3)
@@ -1675,7 +1675,7 @@ PODS:
   - OCMockito (6.0.0):
     - OCHamcrest (~> 8.0)
   - PromisesObjC (2.1.1)
-  - Protobuf (3.21.6)
+  - Protobuf (3.21.7)
   - Quick (5.0.1)
   - RCT-Folly (2021.07.22.00):
     - boost
@@ -3458,7 +3458,7 @@ SPEC CHECKSUMS:
   GoogleUtilitiesComponents: 679b2c881db3b615a2777504623df6122dd20afe
   GTMAppAuth: 0ff230db599948a9ad7470ca667337803b3fc4dd
   GTMSessionFetcher: 5595ec75acf5be50814f81e9189490412bad82ba
-  hermes-engine: 9cd393f741bfa14d1d0cd90cc373e3619c0bc7ea
+  hermes-engine: f9312a2ea8036d03b63568ebf392314f4fa8b474
   JKBigInteger: 5c72131974815e969c0782c41e3452f1bbe5619f
   libevent: 4049cae6c81cdb3654a443be001fb9bdceff7913
   lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
@@ -3473,7 +3473,7 @@ SPEC CHECKSUMS:
   OCHamcrest: a613690381f1dac7637c18962c10dbe8feca4bb5
   OCMockito: 780f04370226f81a9d972c97d1203864ef609f5b
   PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
-  Protobuf: e7846f61e8542750cf311385fc633c1d00928f9f
+  Protobuf: f4128517d7a42302e106cc3afe614ee3a7513e94
   Quick: 749aa754fd1e7d984f2000fe051e18a3a9809179
   RCT-Folly: 0080d0a6ebf2577475bda044aa59e2ca1f909cda
   RCTRequired: d4033a367d0bfd1f23f67b501f8cdabf9afe617e
